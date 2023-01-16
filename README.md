@@ -1,10 +1,10 @@
 ## Weather_Application
 
-# Live Link: 
+# Live Link: https://weather-application-ahsan.netlify.app/
 
 
 
-** Technology:-
+# Technology:-
 
 * React
 * API
